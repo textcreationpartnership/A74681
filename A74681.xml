@@ -1,0 +1,312 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true narration of the royall fishings of Great Brittaine and Ireland. Instituted Anno 1632, and prosecuted by the Right Honourable, Philip, Earle of Pembrook and Montgomery, and his associats, untill Anno 1640, from the river of Thames. Whereunto is added a discovery of new trades, for the employing of all the poore people and vagrants in the kingdomes. / By Simon Smith, agent for the royall fishing.</title>
+            <author>Smith, Simon, Agent for the Royall Fishing.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74681</idno>
+            <idno type="STC">Wing S4210</idno>
+            <idno type="STC">Thomason E170_7</idno>
+            <idno type="STC">Thomason E177_15</idno>
+            <idno type="STC">ESTC R9387</idno>
+            <idno type="EEBO-CITATION">99873540</idno>
+            <idno type="PROQUEST">99873540</idno>
+            <idno type="VID">157108</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74681)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157108)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E170[7], 31:E177[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true narration of the royall fishings of Great Brittaine and Ireland. Instituted Anno 1632, and prosecuted by the Right Honourable, Philip, Earle of Pembrook and Montgomery, and his associats, untill Anno 1640, from the river of Thames. Whereunto is added a discovery of new trades, for the employing of all the poore people and vagrants in the kingdomes. / By Simon Smith, agent for the royall fishing.</title>
+                  <author>Smith, Simon, Agent for the Royall Fishing.</author>
+               </titleStmt>
+               <extent>[4], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. P. for Nicholas Bourne, at the south entrance of the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fisheries --  England --  Early works to 1800.</term>
+               <term>Fish trade --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157108:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 91 -->
+            <p>A True NARRATION OF The Royall Fishings OF Great <hi>BRITTAINE</hi> and <hi>JRELAND.</hi>
+            </p>
+            <p>Inſtituted <hi>Anno</hi> 1632, and proſecuted by the Right Honourable, PHILIP, Earle of <hi>Pembrook and Montgomery,</hi> and his Aſſociats, untill <hi>Anno</hi> 1640, from the River of THAMES.</p>
+            <p>
+               <hi>Whereunto is added a Diſcovery of new Trades, for the employing of all the poore people and Vagrants in the Kingdomes.</hi>
+            </p>
+            <p>BY SIMON SMITH, Agent for the Royall FISHING.</p>
+            <p>LONDON, Printed by <hi>E. P.</hi> for <hi>Nicholas Bourne,</hi> at the ſouth Entrance of the Royall EXCHANGE. 1641.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:157108:2"/>
+            <!-- PDF PAGE 92 -->
+            <pb facs="tcp:157108:2"/>
+            <!-- PDF PAGE 92 -->
+            <head>TO THE KINGS MOST EXCELLENT MAIESTY.</head>
+            <head type="sub">The Lords Spirituall, and Temporall, and Commons, in the high Court of PARLIAMENT aſſembled.</head>
+            <byline>Simon Smith, Agent for the Royal Fiſhing, of great Brittaine and Ireland,</byline>
+            <opener>In all Humbleneſſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhewing,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat having now by the ſpace of eight yee<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, ſince his Maieſties firſt inſtitu<g ref="char:EOLhyphen"/>tion of the Royall Fiſhery, applied himſelfe by all the beſt wayes and meanes, to advance the Artes, Skill and Know<g ref="char:EOLhyphen"/>ledge of the ſame, for the imployment of people; and encreaſing of the Traffike of the Kingdomes,
+<pb facs="tcp:157108:3"/>
+               <!-- PDF PAGE 93 -->to the great benefit of his Majeſty and the adven<g ref="char:EOLhyphen"/>turers; which being brought to that perfection as formerly hath not bin attained unto; It now wants nothing but execution; which to doe I doubt not but there are many very willing and able; onely that the imployment is not beleeved, to yeeld that anſwerable profit which is expected and alſo becauſe it hath beene often begunne and given over againe, and theſe late aſſociations have much diſ<g ref="char:EOLhyphen"/>couraged the wel-wiſhers thereof; Wherefore to vindicate the honour and reputation thereof, I have made bold in al humbleneſſe to ſet forth this nar<g ref="char:EOLhyphen"/>ration, and am ready to demonſtrate the action it ſelfe to be very good and profitable, in all its relati<g ref="char:EOLhyphen"/>ons, and to be embraced and cheriſhed.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:157108:3"/>
+            <!-- PDF PAGE 93 -->
+            <head>Whereas it is reported that the Herring Fiſhing by Buſſes is unprofitable, alledging that the Lord Marſhall, and the Lord <hi>Chamberlaines</hi> aſſo<g ref="char:EOLhyphen"/>ciations have loſt their ſtockes, in their Fiſhing Buſineſſe, I anſwer and ſay.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the cauſe of the conſumption of their ſtocks, was by their improper disburſe<g ref="char:EOLhyphen"/>ments, mannaged by unskilful Factors, buil<g ref="char:EOLhyphen"/>ding of Barkes, inſtead of Buſſes, which were not fit for that performance, and ſend<g ref="char:EOLhyphen"/>ing them, and other great ſhips laden with Merchandizes, and many Factors, which waſted &amp; conſumed their ſtocks unto the Ilands, of the <hi>Lewis</hi> and <hi>Sheteland,</hi> applying themſelves in a way of coaping with the Ilanders for their commodities, taking unvendable Fiſh in lieu thereof.</p>
+            <div type="part">
+               <head>This was not the Fiſhing intended.</head>
+               <p>And having made great preparations for the Herring Fiſhing in the Lowghes at the <hi>Lewis-Ilands,</hi> bought Land and erected houſes for the curing and packing their Her<g ref="char:EOLhyphen"/>rings, and ſtoage of their Nets, Caske, ſalt, and other proviſions, it hapned that the Herrings failed to come into thoſe loughes, whereby their great charges and freights and wages were all loſt: and being afterwards made knowne, that the Herrings did not conſtantly make their appearance in thoſe Loughes, but many years failed.</p>
+               <pb n="2" facs="tcp:157108:4"/>
+               <!-- PDF PAGE 94 -->
+               <p>The Lord Marſhals aſſociation, having waſted all their ſtock in that way of employment, quite gave over their Fiſhing, which did diſcourage many of the L. <hi>Chamber<g ref="char:EOLhyphen"/>lains</hi> aſſociats, whoſe under-writings being in 7 years pay<g ref="char:EOLhyphen"/>ments by equall portions, prevented the loſing of their whol Srock; but cauſed them to detain their two laſt pay<g ref="char:EOLhyphen"/>ments, yet the L. <hi>Chamberlan,</hi> &amp; ſome of his aſſociats, have proſecuted that buſineſſe of the Herring Fiſhing, with Buſſes in the North ſeas, where the <hi>Netherlanders</hi> doe con<g ref="char:EOLhyphen"/>ſtantly Fiſh, which is to this day continued by the Lord Chamberlaines Agent, to the reliefe of many poore peo<g ref="char:EOLhyphen"/>ple; but the want of Stock, and interruption by the <hi>Dunkerker,</hi> although it hath hindred the proſperity and growth thereof, yet it hath diſcovered the action it ſelfe to be very good in all reſpects, and to bee embraced and cheriſhed, as for <hi>Directions for the Herring Fiſhing.</hi>
+               </p>
+               <p>Touching the proportion and charge of a Buſſe, with all the particulars belonging thereto, I referre unto the Booke called <hi>Britiaines Buſse,</hi> which exactly and truly ſets downe, both the qualities and quantities of all things belonging thereunto.</p>
+            </div>
+            <div type="part">
+               <head>The manner of the Fiſhing.</head>
+               <p>The Buſſe of 70 Tuns, which can ſtow but 30 laſtes of Herring Barrels, which is 360 barrels, in regard of the Stoage for the Nets, and other proviſions, and muſt have 55 deep ſea nets, of 4 deepings to each net, and each dee<g ref="char:EOLhyphen"/>ping being 70 Maſſes, at the firſt ſetting out, and muſt have 55 Nets more in readineſſe at returne, leaving the o<g ref="char:EOLhyphen"/>thers to be newed and tanned, and fitted for the laſt going out againe, and ſo for Caske, Salt, and all other proviſi<g ref="char:EOLhyphen"/>ons to be ready for the quicker diſpatch.</p>
+               <pb n="3" facs="tcp:157108:4"/>
+               <!-- PDF PAGE 94 -->
+               <p>The number of men and youthes imployed in this Buſſe is 19. <hi>viz.</hi> 10 Fiſhers, Gippers, Salters and Coopers, 6 common men for labour, and three Countrey youths for Apprentices.</p>
+               <p>The whole monethly wages to the 18 perſons, beſides the Maſter, will be about 20 <abbr>
+                     <hi>li.</hi>
+                  </abbr> The Maſter is to have in lieu of his wages 12. <abbr>
+                     <hi>d.</hi>
+                  </abbr> for every Merchantable barrell of Herring he takes.</p>
+               <p>The victualling reckoned for two moneths at firſt ſet<g ref="char:EOLhyphen"/>ting out, which is the time of taking Summer Herring (called Seaſticks) and then expected back unto the <hi>Mag<g ref="char:EOLhyphen"/>gazeene</hi> againe.</p>
+            </div>
+            <div type="part">
+               <head>The places of the Fiſhing are</head>
+               <p>Firſt at <hi>Sheteland</hi> in <hi>Cullero</hi> and <hi>Brutio, Sowndes,</hi> which is our Kings Dominions, at which coaſte the Herrings doe firſt riſe, and ſhootes forwards to the <hi>Doggerbanke,</hi> which lyeth in the maine Ocean of thoſe Northerne ſeas, and there all nations doe fiſh together, and about <hi>Bartholmew,</hi> they come into the <hi>Yarmouth</hi> Seas.</p>
+               <p>
+                  <hi>This can give no offence to the Hollander, being its free in</hi> GODS <hi>high way</hi> (<hi>which is the</hi> Ocean) <hi>for all Nations to Fiſh.</hi>
+               </p>
+               <p>But if it pleaſe our Kings Majeſty in the future, when as our Engliſh and Scottiſh Buſſes ſhall encreaſe, then to ſtrengthen the priviledges of <hi>Sheteland, Yarmouth,</hi> and o<g ref="char:EOLhyphen"/>ther places from the ſtranger, it may prove advantageous to his ſubjects, as by the right of his Royaltie, hee may juſtly doe.</p>
+            </div>
+            <div type="part">
+               <head>The Vent of Herrings in forreine parts.</head>
+               <p>For the Summer Herrings, which are called Seaſticks, (not being capeable of packing, by reaſon of their fat<g ref="char:EOLhyphen"/>neſſe)
+<pb n="4" facs="tcp:157108:5"/>
+                  <!-- PDF PAGE 95 -->are vented at <hi>Danske, Elbing, Coningsburg, Statteene,</hi> and other places, within the <hi>Baltick</hi> Seas, from whence is Maſts, Hempe, Pitch, Tar, Waynskots, Clapbords, Deale, and Caske, uſefull for the Fiſhery, or Gold, Sil<g ref="char:EOLhyphen"/>ver, and Corne returned.</p>
+               <p>Alſo <hi>Hamburg, Dunkerke, Deepe, Nants, Rouen, St. Val<g ref="char:EOLhyphen"/>leries, St. Mallowes, Burdeaux,</hi> and elſewhere.</p>
+               <p>The ſecond Fiſhing being repact Herrings, the full and ſhotten ſeparated, which may be vented in all the places aforeſaid. The Crux Herrings made with ſalt, upon ſalt, doe find their beſt vent and price, at <hi>Rouen.</hi>
+               </p>
+               <p>For the latter Fiſhing, if Corved Herrings, the beſt vent of them is at <hi>Yarmouth,</hi> to make red Herrings for <hi>Leghorne, Genoua,</hi> and other parts within the <hi>Streights.</hi>
+               </p>
+               <p>And what repact Herrings then ſhall bee made, are to be vented at <hi>Deepe Rouen,</hi> and thoſe other places before named, the Eaſtland being frozen up, and ſo too late to ſend any thither.</p>
+               <p>The Herring Fiſhing beginneth the middle of <hi>Iune,</hi> and ceaſeth about the middle of <hi>November,</hi> but from the time of going forth, untill the returne will bee full ſixe mo<g ref="char:EOLhyphen"/>neths.</p>
+               <p>The ſame Buſſe being ſet forth with hooke and line, for Cod and Lyng may be employed therein, untill the be<g ref="char:EOLhyphen"/>ginning of <hi>March,</hi> and then returning, is to bee graved, cawlked and fitted out againe for the Herring Fiſhing.</p>
+               <p>The Countrey-men imployed, may after the Herring Fiſhing, returne to their Countrey imployment, or beat and dreſſe Hempe, ſpin, twine, and brade deepings, and the like. The <hi>Gange Buſſe</hi> being open with one deck, is fitteſt for the Herring Fiſhing in regard the nets will bee better preſerved therein, then in a two deck Buſſe, and the charge is much leſſe.</p>
+               <pb n="5" facs="tcp:157108:5"/>
+               <!-- PDF PAGE 95 -->
+               <p>There is another ſort, and that is called a Hooker, or Welboat, whoſe bayt is with Lampres, when as the her<g ref="char:EOLhyphen"/>rings are not to be had for bayt.</p>
+            </div>
+            <div type="fishing_accounts">
+               <head>That the Action is profitable in a way of Trading, may appeare by this Calculation hereunder named, according to good experiment made thereof.</head>
+               <head type="sub">The charge in ſetting forth of a Herring Buſse, from the <hi>15.</hi> of <hi>May,</hi> to the <hi>15. Novem.</hi> being <hi>6.</hi> months, will be at the higheſt rates.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>FOr Caske and Hoopes 1000. Barrels at 2 <abbr>s.</abbr> 
+                           <hi>per</hi> Barrel</cell>
+                        <cell> 100 <abbr>l.</abbr> 00 <abbr>s.</abbr> 00 <abbr>d.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>For Salt 1000. buſhels at 2 <abbr>s.</abbr> 
+                           <hi>per</hi> buſhell,</cell>
+                        <cell>100 <abbr>l.</abbr> 00 <abbr>s.</abbr> 00 <abbr>d.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>For Victualing and pettie-Tallie,</cell>
+                        <cell>060 <abbr>l.</abbr> 00 <abbr>s.</abbr> 00 <abbr>d.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>For the ſix moneths wages to the Company,</cell>
+                        <cell>120 <abbr>l.</abbr> 00. 00 <abbr>d.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>For the Maſter his allowance, 12 <abbr>d.</abbr> the Barrell</cell>
+                        <cell>050 <abbr>l.</abbr> 00 <abbr>s.</abbr> 00 <abbr>d.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>For the repaire of the 55. Nets, at 3 <abbr>l.</abbr> 
+                           <hi>per</hi> Net</cell>
+                        <cell>165 <abbr>l.</abbr> 00 <abbr>s.</abbr> 00 <abbr>d.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>For extraordinary charges of Store-houſes and Sallaries,</cell>
+                        <cell> 035 <abbr>l.</abbr> 00 <abbr>s.</abbr> 00 <abbr>d.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>For the repaire of the Buſſe, or freight at 10 <abbr>l.</abbr> by the mo.</cell>
+                        <cell> 060 <abbr>l.</abbr> 00 <abbr>s.</abbr> 00 <abbr>d.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Some is</cell>
+                        <cell>630 <abbr>l.</abbr> 00 <abbr>s.</abbr> 00 <abbr>d.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>The 1000. Barrels of Herrings will produce one with another for the net-Sales, the ſome of</cell>
+                        <cell>1000. 00 <abbr>s.</abbr> 00 <abbr>d.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>So the cleare gaines for the Stocke adventured is,</cell>
+                        <cell>370 <abbr>l.</abbr> 00 <abbr>s.</abbr> 00 <abbr>d.</abbr>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>And if it ſhould ſo happen, that but</hi> 500. <hi>Barrels be taken, yet there can be no loſse.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>For the Salt and Caske not uſed, is</cell>
+                        <cell>100 <abbr>l.</abbr> 00 <abbr>s.</abbr> 00 <abbr>d.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>For the Maſters allowance and other charges ſaved,</cell>
+                        <cell>030 <abbr>l.</abbr> 00 <abbr>s.</abbr> 00 <abbr>d.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>For the Sale of the 500. Barrels of Herring,</cell>
+                        <cell>500 <abbr>l.</abbr> 00 <abbr>s.</abbr> 00 <abbr>d.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>For the Sale of the 500. Barrels of Herring,</cell>
+                        <cell>630 <abbr>l.</abbr> 00 <abbr>s.</abbr> 00 <abbr>d.</abbr>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>But if proviſion be made in due time with ready money, will further Fiſhings very much, and eaſe the rates of the pro<g ref="char:EOLhyphen"/>viſions, and cauſe the returne and diſpatch of the Buſſe ſooner, for the want of a <hi>Magazine</hi> hath beene the onely cauſe of hin<g ref="char:EOLhyphen"/>dring the proſperity thereof.</p>
+               <pb n="6" facs="tcp:157108:6"/>
+               <!-- PDF PAGE 96 -->
+               <p>If three Buſſes conſort together, and take alongſt with them, a Yagar laden with proviſions, to ſupply them after they have taken ſuch a quantity wherewith the ſaid Yagar may run to the next market, and returning may meet together a<g ref="char:EOLhyphen"/>gaine at the <hi>Magazine,</hi> thereby a greater quantity of Herrings may be taken before that the Buſſes make their firſt returne, and the ſame nets being imployed whilſt they are wet, will performe it with leſſe hurt to the nets, then if they ſhould come away aſſoone as they have gotten their lading.</p>
+               <p>Alſo during their Fiſhings in the <hi>North</hi> Sea, the Buſſes may repaire unto <hi>Holy-Iland</hi> neere <hi>Barwicke,</hi> for drying their Nets, and receiving of freſh proviſions of Salt and Caske, which will be a great accommodation in regard they may in ſeaven houres from thence be at their place of Fiſhings a<g ref="char:EOLhyphen"/>gaine.</p>
+               <p>In few years the number of Buſſes increaſing both of Eng<g ref="char:EOLhyphen"/>liſh and Scottiſh, they may be able to maintaine an <hi>Armado</hi> for their defence as the <hi>Holland</hi> Buſſes doe, which are alwayes in readineſſe for the defence of the Kingdomes, if any ſudden attempt ſhould hereafter happen, which the Spaniſh Fleet that came lately into the Downes, found by wofull experi<g ref="char:EOLhyphen"/>ence, It hath beene obſerved that at <hi>Shetland</hi> which is the <hi>Ran<g ref="char:EOLhyphen"/>dezvous</hi> of the <hi>Hollands</hi> Buſſes in the moneth of <hi>Iune,</hi> yearely hath beene to the number of ſix and twenty hundred Buſſes, being enjoyned not to put their Nets into ſea before the 15. day of <hi>Iune.</hi>
+               </p>
+               <p>And this yeare 1641. the <hi>Netherlanders</hi> have ſent forth 1900. Buſſe, and 36. ſhips of war to attend them, in which Buſſes and ſhips, are to the number of 40. thouſand perſons, Fiſhers, and Mariners, and the poore people which they ſet on worke, at the ſeverall Townes and places whereto they belong in beating and dreſſing of Hempe, ſpynning of twine, brayding of deepings, making of Nets, Ropes, Caske, and o<g ref="char:EOLhyphen"/>ther
+<pb n="7" facs="tcp:157108:6"/>
+                  <!-- PDF PAGE 96 -->proviſions, building and repairing of the Buſſes and the like, is not ſo little, as 40. thouſand families at home, beſides their forraigne imployment in the way of Merchandizing which ariſeth thereby, and is of greater conſequence unto the States then the Indies to the King of <hi>Spaine.</hi>
+               </p>
+               <p>This Fiſhing imployment is with a ſmaller Stocke, leſſe danger, neerer at hand, and quicker diſpatch then any o<g ref="char:EOLhyphen"/>ther, it is gained out of the Sea, for 4 <abbr>s.</abbr> which is the coſt of the Salt and Herring barrel, produceth the 20. <abbr>s.</abbr> in Herrings, there being no one Manufacture in this Kingdome that gi<g ref="char:EOLhyphen"/>veth ſo univerſall imployment.</p>
+               <p>And if this buſineſſe of the Herring Fiſhing were taken into due conſideration, and made a nationall worke, the poor people and vagrants, in, and about all Citties, Townes, and other places, may be kept in worke to get their livings by the beating and dreſſing of hempe, ſpinning of twine, and bra<g ref="char:EOLhyphen"/>ding of deepings, for making of Nets, Lines, Norſels, Ropes, Caske. and other proviſions, for the furniſhing of a Maga<g ref="char:EOLhyphen"/>zene in each port, where any Buſſes ſhall bee built, or ſet forth according to the manner of the <hi>Hollanders,</hi> who there<g ref="char:EOLhyphen"/>by have a flouriſhing Common-wealth, and doe not ſuffer an idle perſon among them.</p>
+               <p>And if thoſe men that live wholly by their money trade, would imploy their ſtockes, ot ſome part thereof in this ſer<g ref="char:EOLhyphen"/>vice of the Common-wealth, to ſet up this Fiſhing Trade, in any one of the particulars, either by buying Hempe and making deeping to ſell, or in building of Buſſes to ſell, or Caske, or providing Salt, or ſetting up a <hi>Magazine</hi> for the victualing and furniſhing with the needfulls, or will buy the Herring from the Fiſher-men and vent them, or will ſet up a Bancke to furniſh poor people with ſmall ſummes of money on their pawnes, at eight pence, whereby the ſpynners and Brayders, and others, may imploy themſelves in any one of
+<pb n="8" facs="tcp:157108:7"/>
+                  <!-- PDF PAGE 97 -->the ſaid Manufactures; they would find a greater gaine to ariſe unto them, then by their trade of Uſury: and more ſafe and comfortable for them; And to inſtance in one particular, a 100. <abbr>li.</abbr> be<g ref="char:EOLhyphen"/>ſtowed in hempe will produce 300. <abbr>li.</abbr> weekely, by the Manufactures thereof.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
